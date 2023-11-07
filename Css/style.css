@@ -1,0 +1,22 @@
+.text-light {
+  font-size: 22.5px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.redes {
+  display: flex;
+  flex-direction: row;
+}
